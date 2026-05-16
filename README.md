@@ -1,9 +1,3 @@
-Aqui está um modelo completo e estruturado do `README.md` para o seu repositório, englobando todos os requisitos exigidos pela sua atividade.
-
-Deixei marcadores visuais (como `[Inserir Print...]`) onde você precisará adicionar as imagens dos testes e do JavaDoc antes de fazer o commit final.
-
----
-
 Projeto Calculadora - FinançApp 
 
 ## 📖 Descrição do Projeto

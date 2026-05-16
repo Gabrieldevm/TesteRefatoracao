@@ -16,19 +16,15 @@ O objetivo principal desta atividade é aplicar na prática os fundamentos de qu
 
 ## 🚀 Tecnologias Utilizadas
 
-* 
 **Linguagem:** Java 
 
-
-* 
+  
 **Documentação:** JavaDoc 
 
 
-* 
 **Versionamento:** Git e GitHub 
 
 
-* 
 **Testes:** Validação via terminal com testes de unidade manuais (Classe `TesteCalculadora`) 
 
 
@@ -37,23 +33,18 @@ O objetivo principal desta atividade é aplicar na prática os fundamentos de qu
 
 A classe principal `Calculadora` foi desenvolvida para suportar as quatro operações matemáticas básicas, com foco na robustez para que nenhuma execução quebre o aplicativo:
 
-* 
 **Adição (+)** 
 
 
-* 
 **Subtração (-)** 
 
 
-* 
 **Multiplicação (*)** 
 
 
-* 
 **Divisão (/)** 
 
 
-* 
 **Tratamento de Exceções:** O sistema bloqueia proativamente tentativas de divisão por zero (retornando uma mensagem informativa) e emite alertas caso um operador inválido seja inserido.
 
 

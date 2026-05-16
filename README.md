@@ -47,13 +47,11 @@ A classe principal `Calculadora` foi desenvolvida para suportar as quatro opera�
 
 O fluxo de desenvolvimento foi dividido em duas branches para evidenciar as etapas de melhoria contínua do código:
 
-* 
+
 **`main`**: Contém a implementação funcional inicial (código bruto) das classes `Calculadora.java` e `TesteCalculadora.java`.
 
 
-* 
 **`Refatoracao`**: Contém o código após o processo de melhoria contínua (Clean Code). Nesta etapa, o código sofreu extração de métodos e simplificação estrutural para melhorar a legibilidade e a manutenção, mantendo o comportamento externo idêntico e passando em todos os testes.
-
 
 
 ## 🧪 Execução dos Testes
